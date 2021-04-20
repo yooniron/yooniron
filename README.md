@@ -3,6 +3,7 @@
 - 🌱 ENTP - 뜨거운 논쟁가 -
 - 👀 JAVA, Android, jsp, php, html5
 - 📫 dbscjf324@gmail.com
+- blog: https://yooniron.tistory.com/
 
 <!---
 yooniron/yooniron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
