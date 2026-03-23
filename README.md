@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yooniron
 - 👀 재미있게 개발하는 개발자입니다.
 - 🌱 ENTP - 뜨거운 논쟁가 -
-- 👀 Java, Android, jsp, nodejs, javascript, Oracle, mariaDB, mysql, mssql
+- 👀 Java, Spring, Android, jsp, nodejs, javascript, Oracle, mariaDB, mysql, mssql
 - 📫 dbscjf324@gmail.com
 - blog: https://yooniron.tistory.com/
 
